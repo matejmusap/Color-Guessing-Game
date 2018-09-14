@@ -1,0 +1,22 @@
+{
+  "name": "color-guessing-game",
+  "version": "1.0.0",
+  "description": "Simple game",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matejmusap/Color-Guessing-Game.git"
+  },
+  "author": "Matej Musap",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matejmusap/Color-Guessing-Game/issues"
+  },
+  "homepage": "https://github.com/matejmusap/Color-Guessing-Game#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
